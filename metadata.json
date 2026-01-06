@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "KWin/WindowSwitcher",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "antigravity@gemini.google.com",
+                "Name": "Antigravity"
+            }
+        ],
+        "Description": "Fast Thumbnail Grid based on Pie's engine",
+        "Icon": "preferences-system-windows-switcher-big-icons",
+        "Id": "fast_thumbnails",
+        "License": "GPL",
+        "Name": "Fast Thumbnails",
+        "ServiceTypes": [
+            "KWin/WindowSwitcher"
+        ]
+    }
+}
